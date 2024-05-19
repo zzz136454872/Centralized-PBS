@@ -1,0 +1,5 @@
+# Bribe proportion Analysis
+
+## files
+- `block_bribe.py`: Based on the Ethernet node crawling the builders and bribe for each block and the portion of the bribe given to the proposer.
+- `block_bribe_analysis.ipynb`: Analysis of the bribe proportion and relationship between the builders and the cex bots.
